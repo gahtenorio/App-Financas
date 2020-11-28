@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <br> 
-  <img src="./github/logo.png" alt="Finanças App" width="150">
+  <img src="./github/logo-financas.png" alt="Finanças App" width="150">
   <br>
   <br>
   Finanças App
