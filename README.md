@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <br> 
-  <img src="./github/logoFinancas.png" alt="Finanças App" width="150">
+  <img src="./.github/logoFinancas.png" alt="Finanças App" width="150">
   <br>
   <br>
   Finanças App
@@ -12,13 +12,13 @@
 <div align="center">
 <br>
 <br>
-<img src="./github/signIn.jpg" alt="signIn" width="200">
-<img src="./github/signUp.jpg" alt="signUp" width="200">
-<img src="./github/home.jpg" alt="home" width="200">
-<img src="./github/drawer.jpg" alt="drawer" width="200">
-<img src="./github/datePicker.jpg" alt="dater picker" width="200">
-<img src="./github/register.jpg" alt="register" width="200">
-<img src="./github/profile.jpg" alt="profile" width="200">
+<img src="./.github/signIn.jpg" alt="signIn" width="200">
+<img src="./.github/signUp.jpg" alt="signUp" width="200">
+<img src="./.github/home.jpg" alt="home" width="200">
+<img src="./.github/drawer.jpg" alt="drawer" width="200">
+<img src="./.github/datePicker.jpg" alt="dater picker" width="200">
+<img src="./.github/register.jpg" alt="register" width="200">
+<img src="./.github/profile.jpg" alt="profile" width="200">
 <br>
 <br>
 <br>
